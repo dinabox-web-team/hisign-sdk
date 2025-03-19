@@ -1,0 +1,21 @@
+{
+    "name": "clian-dinabox/hisign-sdk",
+    "description": "A HiSign PHP Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ClianDinabox\\HisignSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cristiano Mozena",
+            "email": "cristiano@dinabox.email"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6.22"
+    }
+}

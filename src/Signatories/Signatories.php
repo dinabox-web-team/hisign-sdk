@@ -1,5 +1,5 @@
 <?php
-namespace ClianDinabox\HisignSdk\Signatories;
+namespace DinaboxWebTeam\HisignSdk\Signatories;
 /*
 *   Class used to interact with Signatories rote
 */

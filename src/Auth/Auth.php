@@ -1,6 +1,6 @@
 <?php
-namespace ClianDinabox\HisignSdk\Auth;
-use ClianDinabox\HisignSdk\Services\Caller\Caller;
+namespace DinaboxWebTeam\HisignSdk\Auth;
+use DinaboxWebTeam\HisignSdk\Services\Caller\Caller;
 use Exception;
 use Error;
 class Auth{

@@ -1,9 +1,9 @@
 <?php
-namespace ClianDinabox\HisignSdk\HiSign;
-use ClianDinabox\HisignSdk\Users\Users;
-use ClianDinabox\HisignSdk\Documents\Documents;
-use ClianDinabox\HisignSdk\Auth\Auth;
-use ClianDinabox\HisignSdk\Account\Account;
+namespace DinaboxWebTeam\HisignSdk\HiSign;
+use DinaboxWebTeam\HisignSdk\Users\Users;
+use DinaboxWebTeam\HisignSdk\Documents\Documents;
+use DinaboxWebTeam\HisignSdk\Auth\Auth;
+use DinaboxWebTeam\HisignSdk\Account\Account;
 use Exception;
 class HiSign
 {

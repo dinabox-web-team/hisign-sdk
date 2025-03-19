@@ -1,6 +1,6 @@
 <?php
-namespace ClianDinabox\HisignSdk\Users;
-use ClianDinabox\HisignSdk\Services\Caller\Caller;
+namespace DinaboxWebTeam\HisignSdk\Users;
+use DinaboxWebTeam\HisignSdk\Services\Caller\Caller;
 use Error;
 use Exception;
 class Users{

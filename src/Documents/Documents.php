@@ -1,6 +1,6 @@
 <?php
-namespace ClianDinabox\HisignSdk\Documents;
-use ClianDinabox\HisignSdk\Services\Caller\Caller;
+namespace DinaboxWebTeam\HisignSdk\Documents;
+use DinaboxWebTeam\HisignSdk\Services\Caller\Caller;
 use Error;
 use Exception;
 use CURLFile;

@@ -1,5 +1,5 @@
 <?php
-    namespace ClianDinabox\HisignSdk\Services\Caller;
+    namespace DinaboxWebTeam\HisignSdk\Services\Caller;
     use Exception;
 
     class Caller{

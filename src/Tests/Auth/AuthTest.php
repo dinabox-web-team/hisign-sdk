@@ -1,7 +1,7 @@
 <?php
-namespace ClianDinabox\HisignSdk\Tests\Services\CallerTest;
+namespace DinaboxWebTeam\HisignSdk\Tests\Services\CallerTest;
 use PHPUnit\Framework\TestCase;
-use ClianDinabox\HisignSdk\HiSign\HiSign;
+use DinaboxWebTeam\HisignSdk\HiSign\HiSign;
 use Exception;
 class AuthTest extends TestCase
 {

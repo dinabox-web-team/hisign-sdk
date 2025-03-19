@@ -1,11 +1,11 @@
 {
-    "name": "clian-dinabox/hisign-sdk",
+    "name": "dinabox-web-team/hisign-sdk",
     "description": "A HiSign PHP Wrapper",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ClianDinabox\\HisignSdk\\": "src/"
+            "DinaboxWebTeam\\HisignSdk\\": "src/"
         }
     },
     "authors": [

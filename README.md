@@ -27,7 +27,7 @@ As this project is still in development, installation instructions will be provi
 Just run composer require in your project:
 
 ```bash
-composer require cliandinabox/hisign-sdk
+composer require dinabox-web-team/hisign-sdk
 ```
 
 ### 1.2 - Manual
@@ -38,7 +38,7 @@ composer require cliandinabox/hisign-sdk
 ```json
     "autoload": {
         "psr-4": {
-            "ClianDinabox\\HisignSdk\\": "lib/hisign-sdk/src"
+            "DinaboxWebTeam\\HisignSdk\\": "lib/hisign-sdk/src"
         }
     },
 ```
@@ -48,10 +48,10 @@ composer require cliandinabox/hisign-sdk
 
 ### 2 - Instancing class
 
-To start working with HiSingSDK you need to use the correcty namespace **`ClianDinabox\HisignSdk`** 
+To start working with HiSingSDK you need to use the correcty namespace **`DinaboxWebTeam\HisignSdk`** 
 
 ```php
-use ClianDinabox\HisignSdk\HiSign:
+use DinaboxWebTeam\HisignSdk\HiSign:
 $hisignsdk = new HiSign(
         $apikey
         $email
@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or concerns, please contact:
-Cristiano Mozena - cristiano@dinabox.email
+Dinabox Development - dev@dinabox.email
 
 ---
 
